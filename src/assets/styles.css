@@ -1,0 +1,15 @@
+@font-face {
+    font-family: "dearest";
+    src: url("/fonts/Dearest.ttf") format("truetype");
+}
+.dearest-font {
+    font-family: "dearest";
+}
+
+@font-face {
+    font-family: "typewriter";
+    src: url("/fonts/typewriter.ttf") format("truetype");
+}
+.typewriter-font {
+    font-family: "typewriter";
+}
